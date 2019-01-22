@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 ruby '2.5.1'
 gem 'rspec'
-gem 'pry'
+gem 'pry', '~> 0.12.2'
 gem 'rubocop', '~> 0.57.2'
